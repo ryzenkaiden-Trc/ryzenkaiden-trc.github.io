@@ -1,2 +1,2 @@
 # ryzenkaiden-trc.github.io
-Obfuscate GUXESH 
+Obfuscate GIXESH 
